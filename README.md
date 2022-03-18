@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning ...
 
-![Cover](https://github.com/andrianina777/andrianina777/blob/master/img/stock-footage-java-code-animation-loop-black-background-blue-text.webm)
+![Cover](https://github.com/andrianina777/andrianina777/blob/master/img/cover.jpg)
 
 <!--
 **andrianina777/andrianina777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
