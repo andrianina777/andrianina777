@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Java - MySql
 
 ![Cover](https://github.com/andrianina777/andrianina777/blob/master/img/cover.jpg)
 
