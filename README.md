@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Java - MySql
+- 🌱 I’m currently learning :
+Java -
+MySql - 
+Postgresql - 
+php -
+Javascript
 
 ![Cover](https://github.com/andrianina777/andrianina777/blob/master/img/cover.jpg)
 
