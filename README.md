@@ -13,7 +13,7 @@ Javascript
 <!-- Visitor -->
 
 <p align="right">
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=mattnix4&repo=mattnix4&countColor=%2308E8FF"/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fandrianina777&countColor=%23263759"/>
 </p>
 
 <!--
