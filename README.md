@@ -18,6 +18,12 @@ Javascript
   <img alt='GIT' src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white'/>
  </p>
 
+ <!-- Linux Typing -->
+
+<p align="center" style="background: #1c1c1c;">  
+  <img src="https://readme-typing-svg.herokuapp.com?font=product+sans&amp;color=06ACBD&amp;center=true&amp;lines=%24%20sudo%20apt%20install%20brain&amp;duration=7000">
+</p>
+
 <!--
 **andrianina777/andrianina777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
