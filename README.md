@@ -9,12 +9,14 @@ Javascript
 
 ![Cover](https://github.com/andrianina777/andrianina777/blob/master/img/cover.jpg)
 
-
-<!-- Visitor -->
-
-<p align="right">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fandrianina777&countColor=%23263759"/>
-</p>
+  <!-- SKILLS -->
+  
+<p align="center">
+  <img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=teal'/>
+  <img alt='PHP' src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'/>
+  <img alt='Linux' src='https://img.shields.io/badge/Linux-3776AB?style=for-the-badge&logo=linux&logoColor=white'/>
+  <img alt='GIT' src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white'/>
+ </p>
 
 <!--
 **andrianina777/andrianina777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
