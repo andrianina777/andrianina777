@@ -7,7 +7,7 @@ Postgresql -
 PHP -
 Javascript
 
-- I'm A developer JavaScript with some framework like ( VUEJS3 - VUETIFY )
+- I'm a developer JavaScript with some framework like ( VUEJS3 - VUETIFY )
 
 ![Cover](https://github.com/andrianina777/andrianina777/blob/master/img/cover.jpg)
 
