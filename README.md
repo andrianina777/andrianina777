@@ -20,7 +20,7 @@
 <!-- CONTACT -->
 - 📫 How to reach me:
   - Email: [njaa777@gmail.com](mailto:njaa777@gmail.com)
-  - Phone: +261 32 44 427 39
+  - github : [andrianina777](https://github.com/andrianina777)
 
 <!-- SKILLS -->
 <p align="center">
